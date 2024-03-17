@@ -1,0 +1,26 @@
+main{
+    background-color: lightcyan;
+};
+
+.d{
+    border: 1px solid black;
+    height: 150px;
+}
+
+    
+
+.btn{
+    border-radius: none;
+}
+
+
+.aaa{
+    border: 1px solid black;
+    height: 75px;
+    
+}
+
+.Output{
+    border: 1px solid black;
+    height: auto;
+}
